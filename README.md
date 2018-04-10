@@ -36,6 +36,7 @@ $ ember install ember-cli-deploy
 
 ```bash
 $ ember install ember-cli-deploy-firebase-pack
+$ ember install @econlab/ember-cli-deploy-firebase
 ```
 
 - Set up firebase in your app, answering `dist` when asked 'What directory should be the public root?'.
@@ -61,7 +62,7 @@ Run the following commands in your terminal:
 
 ```bash
 ember install ember-cli-deploy
-ember install ember-cli-deploy-firebase
+ember install @econlab/ember-cli-deploy-firebase
 ```
 
 ## ember-cli-deploy Hooks Implemented ##
